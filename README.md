@@ -4,10 +4,10 @@ The aim of the project is to write a functional and structured code in python. T
 
 This project is composed of 4 parts: 
 
-  I- data visualization 
- II- Cleaning data 
-III- Modeling of different algorthimes in ML and Deep learning for binary classification 
- IV- Benchmark
+  I- data visualization. 
+ II- Cleaning data.
+III- Modeling of different algorthimes in ML and Deep learning for binary classification. 
+ IV- Benchmark.
 
 
 
