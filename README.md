@@ -11,4 +11,4 @@ This project is composed of 4 parts:
 
 
 
-SVM is the best model for this project based on accurency.
+SVM is the best model for this project based on the accuracy.
